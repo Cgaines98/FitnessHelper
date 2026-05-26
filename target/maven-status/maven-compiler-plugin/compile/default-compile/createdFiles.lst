@@ -1,0 +1,8 @@
+com/fitnesshelper/backend/model/WorkoutSet.class
+com/fitnesshelper/backend/model/DietEntry.class
+com/fitnesshelper/backend/controller/DietEntryController.class
+com/fitnesshelper/backend/controller/WorkoutController.class
+com/fitnesshelper/backend/FitnessHelperApplication.class
+com/fitnesshelper/backend/repository/WorkoutRepository.class
+com/fitnesshelper/backend/repository/DietEntryRepository.class
+com/fitnesshelper/backend/model/Workout.class

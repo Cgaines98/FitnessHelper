@@ -1,0 +1,8 @@
+/Users/coltengaines/Projects/FitnessHelper/src/main/java/com/fitnesshelper/backend/FitnessHelperApplication.java
+/Users/coltengaines/Projects/FitnessHelper/src/main/java/com/fitnesshelper/backend/controller/DietEntryController.java
+/Users/coltengaines/Projects/FitnessHelper/src/main/java/com/fitnesshelper/backend/controller/WorkoutController.java
+/Users/coltengaines/Projects/FitnessHelper/src/main/java/com/fitnesshelper/backend/model/DietEntry.java
+/Users/coltengaines/Projects/FitnessHelper/src/main/java/com/fitnesshelper/backend/model/Workout.java
+/Users/coltengaines/Projects/FitnessHelper/src/main/java/com/fitnesshelper/backend/model/WorkoutSet.java
+/Users/coltengaines/Projects/FitnessHelper/src/main/java/com/fitnesshelper/backend/repository/DietEntryRepository.java
+/Users/coltengaines/Projects/FitnessHelper/src/main/java/com/fitnesshelper/backend/repository/WorkoutRepository.java
